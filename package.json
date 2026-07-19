@@ -1,0 +1,19 @@
+{
+  "name":"tomache-mutari-premium",
+  "private":true,
+  "scripts":{"dev":"vite","build":"vite build"},
+  "dependencies":{
+    "react":"^18.3.1",
+    "react-dom":"^18.3.1",
+    "framer-motion":"^11",
+    "lucide-react":"^0.462.0",
+    "swiper":"^11"
+  },
+  "devDependencies":{
+    "@vitejs/plugin-react":"^4",
+    "vite":"^5",
+    "tailwindcss":"^3.4.0",
+    "postcss":"^8",
+    "autoprefixer":"^10"
+  }
+}
